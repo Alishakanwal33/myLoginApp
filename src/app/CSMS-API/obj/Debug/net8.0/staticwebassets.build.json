@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5VL2OUMZrjpXfSXvTkcG8rNU8l4RBH43kwHkeQxZ+ek=",
+  "Source": "CSMS-API",
+  "BasePath": "_content/CSMS-API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

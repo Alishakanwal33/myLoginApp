@@ -1,0 +1,12 @@
+<div class="scanner-container">
+  <zxing-scanner
+   
+    (scanSuccess)="onCodeResult($event)">
+  </zxing-scanner>
+</div>
+<p *ngIf="scannedCode">Scanned Code: {{ scannedCode }}</p>
+<p *ngIf="this.product.p_Name">Product Name: {{ this.product.p_Name }}</p>
+<p *ngIf="this.product.p_Price">Product Price: Rs. {{ this.product.p_Price }}</p>
+<p *ngIf="this.product.p_detail">Product Details: {{ this.product.p_detail }}</p>
+<img *ngIf="this.product.p_image" [src]="this.product.p_image" alt="Product Image" />
+

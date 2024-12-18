@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSMS-API", "CSMS-API.csproj", "{E7394F1B-B1F2-49CE-916B-5B2ED6E0723C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7394F1B-B1F2-49CE-916B-5B2ED6E0723C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7394F1B-B1F2-49CE-916B-5B2ED6E0723C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7394F1B-B1F2-49CE-916B-5B2ED6E0723C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7394F1B-B1F2-49CE-916B-5B2ED6E0723C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4462D00-7D1C-42CA-BB5B-071792EE6ADF}
+	EndGlobalSection
+EndGlobal
